@@ -1,5 +1,3 @@
-
-
 INSERT INTO ingredientinrecipe (recipeid, ingredientid)
 VALUES (1, 3);
 
